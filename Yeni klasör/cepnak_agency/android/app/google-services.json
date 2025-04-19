@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "445014783223",
+    "project_id": "cepnak-5b6ea",
+    "storage_bucket": "cepnak-5b6ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445014783223:android:b1a55f6acffba0a98d8ff2",
+        "android_client_info": {
+          "package_name": "com.example.cepnak_agency"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmsaI97vjVHWRI7C0nS1D2UMZQ1vjWrpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
